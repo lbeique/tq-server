@@ -1,0 +1,1 @@
+import{B as o}from"./Button.02aed3eb.js";import{H as t}from"./Header.962a342e.js";import{o as e,h as r}from"./index.37659633.js";import"./GoBack.441ae78a.js";const a={name:"EduHow",methods:{},computed:{},props:{},data(){return{}},components:{Header:t,Button:o}},d=Object.assign(a,{setup(s){return(c,p)=>(e(),r(t,{title:"How to Recycle?"}))}});export{d as default};

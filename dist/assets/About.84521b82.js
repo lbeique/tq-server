@@ -1,0 +1,1 @@
+import{B as o}from"./Button.02aed3eb.js";import{H as t}from"./Header.962a342e.js";import{o as e,h as r}from"./index.37659633.js";import"./GoBack.441ae78a.js";const s={name:"About",methods:{},computed:{},props:{},data(){return{}},components:{Header:t,Button:o}},i=Object.assign(s,{setup(a){return(p,c)=>(e(),r(t,{title:"About Us"}))}});export{i as default};

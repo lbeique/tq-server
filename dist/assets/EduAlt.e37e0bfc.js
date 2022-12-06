@@ -1,1 +1,0 @@
-import{B as t}from"./Button.02aed3eb.js";import{H as e}from"./Header.962a342e.js";import{o,h as r}from"./index.37659633.js";import"./GoBack.441ae78a.js";const s={name:"EduAlt",methods:{},computed:{},props:{},data(){return{}},components:{Header:e,Button:t}},d=Object.assign(s,{setup(a){return(c,n)=>(o(),r(e,{title:"Reduse, Reuse, and Recycle"}))}});export{d as default};
